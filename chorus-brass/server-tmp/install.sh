@@ -17,7 +17,7 @@ if command -v apt-get >/dev/null; then
 elif command -v dnf >/dev/null; then dnf install -y -q python3 curl >/dev/null; dnf install -y -q ffmpeg >/dev/null 2>&1 || true
 elif command -v yum >/dev/null; then yum install -y -q python3 curl >/dev/null
 fi
-python3 -c 'import sys; sys.exit(sys.version_info < (3, 11))' || { echo "需要 Python 3.11 以上"; exit 1; }
+python3 -c 'import sys; sys.exit(sys.version_info < (3, 10))' || { echo "需要 Python 3.10 以上"; exit 1; }
 
 echo "== 2/5 下载服务器"
 mkdir -p /opt/chorus2 /var/lib/chorus2
