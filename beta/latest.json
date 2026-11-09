@@ -1,8 +1,8 @@
 {
- "versionCode": 27,
- "versionName": "1.0.22.2",
- "notes": "Chorus 1.0.22.2：中转 key 自动识别；测试连接失败时说明原因",
- "file": "Chorus-1.0.22.2-beta.apk",
- "url": "https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/chorus-app-builds/beta/Chorus-1.0.22.2-beta.apk",
- "sha256": "8dc4c9551c4d4efe9a89e1b624651ad4b1026eb66c1063a4d632cca8ac6d7449"
+ "versionCode": 28,
+ "versionName": "1.0.22.3",
+ "notes": "Chorus 1.0.22.3：修复添加服务商保存不了；中转 key 自动识别（QuickRouter 走国内节点）",
+ "file": "Chorus-1.0.22.3-beta.apk",
+ "url": "https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/chorus-app-builds/beta/Chorus-1.0.22.3-beta.apk",
+ "sha256": "4da3a17a7bafbd95c0d98b76866dfc5167989cec290ab41382c7dd5e5ae64315"
 }
