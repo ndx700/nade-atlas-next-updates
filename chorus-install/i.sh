@@ -3,8 +3,8 @@
 # 用法：curl -fsSL <本文件地址> | sudo bash -s <解密码>
 set -o pipefail
 KEY="$1"
-BASE="https://fastly.jsdelivr.net/gh/ndx700/nade-atlas-next-updates@32f0300248d7734f7ae9dbbaaa6f28375b48efb5/chorus-install https://testingcf.jsdelivr.net/gh/ndx700/nade-atlas-next-updates@32f0300248d7734f7ae9dbbaaa6f28375b48efb5/chorus-install https://cdn.jsdelivr.net/gh/ndx700/nade-atlas-next-updates@32f0300248d7734f7ae9dbbaaa6f28375b48efb5/chorus-install https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/32f0300248d7734f7ae9dbbaaa6f28375b48efb5/chorus-install"
-PKG_SHA="cd9c808141ee25fcc02814db4ddbb099dc1010c3ad57a3191498fc53f40db90a"
+BASE="https://fastly.jsdelivr.net/gh/ndx700/nade-atlas-next-updates@3ee144acf52bd4f4e275f6a7ce97023480e7959b/chorus-install https://testingcf.jsdelivr.net/gh/ndx700/nade-atlas-next-updates@3ee144acf52bd4f4e275f6a7ce97023480e7959b/chorus-install https://cdn.jsdelivr.net/gh/ndx700/nade-atlas-next-updates@3ee144acf52bd4f4e275f6a7ce97023480e7959b/chorus-install https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/3ee144acf52bd4f4e275f6a7ce97023480e7959b/chorus-install"
+PKG_SHA="ebfc4b9cdde0cec0bbb9a8926dd8ab76560fea4c6157434e29694a9c4e5ed52a"
 APP=/opt/dsh-app; SRV=$APP/server; DATA=$SRV/data; SVC=chorus-app
 PORT="${CHORUS_PORT:-8787}"
 NODEV=22.11.0
