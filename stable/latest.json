@@ -1,8 +1,8 @@
 {
- "versionCode": 114,
- "versionName": "1.1.4",
- "notes": "Chorus 1.1.4：修复添加服务商保存不了；中转 key 自动识别（QuickRouter 走国内节点）",
- "file": "Chorus-1.1.4-stable.apk",
- "url": "https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/chorus-app-builds/stable/Chorus-1.1.4-stable.apk",
- "sha256": "8748a35b3130c83ca5d47d346f29a0332f198df7dcdf097db392f3d9953983cf"
+ "versionCode": 115,
+ "versionName": "1.1.5",
+ "notes": "Chorus 1.1.5：会话改成私聊（选谁就跟谁聊）；切换模型能滑能搜、默认最强；模型能不能用自动检测",
+ "file": "Chorus-1.1.5-stable.apk",
+ "url": "https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/chorus-app-builds/stable/Chorus-1.1.5-stable.apk",
+ "sha256": "6f04387e44dd2b891c1896633abdb52de05150ccf3c2e8d546d1b06a659ce954"
 }
