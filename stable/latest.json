@@ -1,8 +1,8 @@
 {
- "versionCode": 115,
- "versionName": "1.1.5",
- "notes": "Chorus 1.1.5：会话改成私聊（选谁就跟谁聊）；切换模型能滑能搜、默认最强；模型能不能用自动检测",
- "file": "Chorus-1.1.5-stable.apk",
- "url": "https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/chorus-app-builds/stable/Chorus-1.1.5-stable.apk",
- "sha256": "6f04387e44dd2b891c1896633abdb52de05150ccf3c2e8d546d1b06a659ce954"
+ "versionCode": 116,
+ "versionName": "1.1.6",
+ "notes": "Chorus 1.1.6：服务重启后中断的任务可以点「继续」；会话改成私聊；切换模型能滑能搜、默认最强",
+ "file": "Chorus-1.1.6-stable.apk",
+ "url": "https://raw.githubusercontent.com/ndx700/nade-atlas-next-updates/chorus-app-builds/stable/Chorus-1.1.6-stable.apk",
+ "sha256": "6dcf0aafdabc6a0dba7741ad46a6069804197891487018a4d07a3cf1075c6db2"
 }
