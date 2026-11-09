@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22.2",
-  "notes": "1.0.22.2：默认使用最强对话模型、模型探测、对话模型过滤",
-  "url": "server-1.0.22.2.tgz.enc",
+  "version": "1.0.22.3",
+  "notes": "",
+  "url": "server-1.0.22.3.tgz.enc",
   "enc": "aes-256-cbc-pbkdf2-200000",
-  "sha256": "94b53929d8a1f675cd09f0cfabc24d3e052ea571206ed8bd06c987863b42cc34",
-  "sig": "S0myEMzLZSviqSAqr1oNxz4PFYi4tHTDrb/KI1J25Ip94shqJlOTRfJOdJzYsNGDIR7+bItmybWglVajR2jgDQ=="
+  "sha256": "7cdb19fbad3004276da4011effec9e8fd2f13ba977993b66e86ee63d0f14f557",
+  "sig": "Ri0Fi+Sw97kqlIIjzhQqZd4Q3Ai1BCUChMxfIE+tSPIw08t0UJs2wYxCuR8GtFtcZ3nB7Vn3mNPvvAOwbgugDA=="
 }
