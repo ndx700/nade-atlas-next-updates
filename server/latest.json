@@ -1,0 +1,8 @@
+{
+  "version": "1.0.22.1",
+  "notes": "1.0.22.1：小任务不再拆碎、报价更准、成品单一标题、私聊选段修正",
+  "url": "server-1.0.22.1.tgz.enc",
+  "enc": "aes-256-cbc-pbkdf2-200000",
+  "sha256": "6fde9debd58bc4ebe7d08e8e80a00ac97ddff1ca21963508d2f8aca7f28090ea",
+  "sig": "mge0Rxvvg5d5GjDU4MFamAq9iRTtLO05qM7dQ17n6wr6bIMFKMdsgPKVlbFdu+9d+jDM+up6ArzXFcmEC+SyDg=="
+}
